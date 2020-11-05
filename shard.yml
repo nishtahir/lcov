@@ -1,0 +1,9 @@
+name: lcov
+version: 0.1.0
+
+authors:
+  - Nish Tahir <nishtahir@outlook.com>
+
+crystal: 0.35.1
+
+license: MIT
